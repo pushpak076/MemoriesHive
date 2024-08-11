@@ -10,4 +10,6 @@ Setup:
 
 TODO: rename post message, refactor reducers, add some cool memories, maybe clickable tags, fix update functionality
 
-SSH KEY: ADDED
+## SSH KEY: ADDED
+
+##just testing
